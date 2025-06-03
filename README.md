@@ -4,17 +4,13 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ## Contents
 
-- [Related Projects](#related-projects)
 - [Extensions](#extensions)
+- [AI-related](#ai-related)
 - [Demo Projects](#demo-projects)
 - [Tutorials](#tutorials)
 - [Reviews](#reviews)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Related projects
-
-- [ash_ai](https://github.com/ash-project/ash_ai) - Structured outputs, vectorization and tool calling for your Ash application.
 
 ## Extensions
 
@@ -28,6 +24,10 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 - [ash_events](https://github.com/ash-project/ash_events) - An event-architecture extension for Ash. 
 - [ash_sync](https://github.com/ash-project/ash_sync) - Real-time sync for Postgres-backed Ash & Phoenix applications. 
 - [ash_csv](https://github.com/ash-project/ash_csv) - The CSV data layer for Ash Framework.
+
+## AI Related projects
+
+- [ash_ai](https://github.com/ash-project/ash_ai) - Structured outputs, vectorization and tool calling for your Ash application.
 
 ## Demo projects
 
