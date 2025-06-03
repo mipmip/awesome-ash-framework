@@ -38,11 +38,26 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 - [Red](https://github.com/dewetblomerus/red) - Practice spelling Red Words.
 - [Orca Site](https://github.com/orcasound/orcasite) - Orca Live-listening web app.
 
+
 ## Tutorials
 
 - [elixir-phoenix-ash](https://elixir-phoenix-ash.com) - An Elixir, Phoenix and Ash Beginner's Guide.
 - [A Gentle Primer to Ash](https://jon.hk/elixir/ash/a-gentle-primer-to-ash) - A Gentle Primer to Ash.
 - [Getting Started with Ash Framework in Elixir](https://optimum.ba/blog/getting-started-with-ash-framework-in-elixir) - Getting Started with Ash Framework in Elixir.
+
+## Audio & Video
+
+- [Ash Framework on Youtube](https://www.youtube.com/watch?v=vjnPjrCF4rs&list=PLFiGINXG7oyFh5B_2SiHI9LtdQ_f1k7pz) - Playlist with video's about Ash.
+
+## News
+
+- [Ash Weekly News](https://ashweekly.substack.com/) - Weekly news on substack authored by Zach himself.
+
+## Community
+
+- [Ash Forums](https://elixirforum.com/c/ash-framework-forum/) - Ash forums in elixirforum.com.
+- [Discord](https://discord.com/invite/w3AXeARR2p) - Ash Discord server.
+- [Answerflow](https://www.answeroverflow.com/c/711271361523351632) - Content from the Ash Discord server.
 
 ## Reviews
 
