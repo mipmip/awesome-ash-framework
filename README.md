@@ -1,6 +1,16 @@
-# Awesome Ash Framework
+# Awesome Ash Framework [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Ash Framework extensions, layers and resources. 
+A curated list of awesome Ash Framework extensions, layers and resources.
+
+## Contents
+
+- [Related Projects](#related-projects)
+- [Extensions](#extensions)
+- [Demo Projects](#demo-projects)
+- [Tutorials](#tutorials)
+- [Reviews](#reviews)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Related projects
 
@@ -36,3 +46,13 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 ## Reviews
 
 - [My First Impressions of Ash](https://dewetblomerus.com/2023/11/26/first-thoughts-on-ash.html) - My First Impressions of Ash
+
+## Contributing
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
