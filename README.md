@@ -74,6 +74,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 - [elixir-phoenix-ash](https://elixir-phoenix-ash.com) - An Elixir, Phoenix and Ash Beginner's Guide.
 - [A Gentle Primer to Ash](https://jon.hk/elixir/ash/a-gentle-primer-to-ash) - A Gentle Primer to Ash.
 - [Getting Started with Ash Framework in Elixir](https://optimum.ba/blog/getting-started-with-ash-framework-in-elixir) - Getting Started with Ash Framework in Elixir.
+- [Part 1 — Ash Framework For Phoenix Developers | Intro](https://medium.com/@lambert.kamaro/ash-framework-for-phoenix-developpers-c29b0a147552) - Part 1 of a large serie of Ash Framework tutorials.
 
 ## Audio & Video
 
