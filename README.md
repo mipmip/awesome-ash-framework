@@ -12,18 +12,44 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 - [Contributing](#contributing)
 - [License](#license)
 
+
+## Official Resources
+
+- [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
+- [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
+- [Ash Framework Github](https://github.com/ash-project/ash) - The offial Ash Framework Project on Github.
+
 ## Extensions
 
-- [ash_authentication](https://github.com/team-alembic/ash_authentication) - The Ash Authentication framework.
-- [ash_graphql](https://github.com/ash-project/ash_graphql) - The extension for building GraphQL APIs with Ash.
+### Data Layer
+
 - [ash_postgres](https://github.com/ash-project/ash_postgres) - The PostgreSQL data layer for Ash Framework.
-- [ash_phoenix](https://github.com/ash-project/ash_phoenix) - Utilities for integrating Ash and Phoenix.
-- [ash_json_api](https://github.com/ash-project/ash_json_api) - The JSON:API extension for the Ash Framework.
 - [ash_sqlite](https://github.com/ash-project/ash_sqlite) - The SQLite data layer for Ash Framework. 
+- [ash_csv](https://github.com/ash-project/ash_csv) - The CSV data layer for Ash Framework.
+- [ash_neo4j](https://github.com/diffo-dev/ash_neo4j/) - Ash Neo4j datalayer.
+- https://github.com/ash-project/ash_blog
+
+### API
+- 
+- [ash_graphql](https://github.com/ash-project/ash_graphql) - The extension for building GraphQL APIs with Ash.
+- [ash_json_api](https://github.com/ash-project/ash_json_api) - The JSON:API extension for the Ash Framework.
+
+### other
+
+- [ash_authentication](https://github.com/team-alembic/ash_authentication) - The Ash Authentication framework.
+- [ash_phoenix](https://github.com/ash-project/ash_phoenix) - Utilities for integrating Ash and Phoenix.
 - [ash_admin](https://github.com/ash-project/ash_admin) - A super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView. 
 - [ash_events](https://github.com/ash-project/ash_events) - An event-architecture extension for Ash. 
 - [ash_sync](https://github.com/ash-project/ash_sync) - Real-time sync for Postgres-backed Ash & Phoenix applications. 
-- [ash_csv](https://github.com/ash-project/ash_csv) - The CSV data layer for Ash Framework.
+- https://github.com/ash-project/ash_paper_trail
+- https://github.com/ash-project/ash_double_entry
+- https://github.com/ash-project/ash_rate_limiter
+- https://github.com/ash-project/ash_ops
+- https://github.com/ash-project/ash_oban
+- https://github.com/ash-project/ash_money
+- https://github.com/ash-project/ash_state_machine
+- https://github.com/ash-project/opentelemetry_ash
+- https://github.com/ash-project/ash_cloak
 
 ## AI Related projects
 
