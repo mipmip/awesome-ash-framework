@@ -27,10 +27,9 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 - [ash_sqlite](https://github.com/ash-project/ash_sqlite) - The SQLite data layer for Ash Framework. 
 - [ash_csv](https://github.com/ash-project/ash_csv) - The CSV data layer for Ash Framework.
 - [ash_neo4j](https://github.com/diffo-dev/ash_neo4j/) - Ash Neo4j datalayer.
-- https://github.com/ash-project/ash_blog
+- [ash_blog](https://github.com/ash-project/ash_blog) - The Ash blog extension.
 
 ### API
-- 
 - [ash_graphql](https://github.com/ash-project/ash_graphql) - The extension for building GraphQL APIs with Ash.
 - [ash_json_api](https://github.com/ash-project/ash_json_api) - The JSON:API extension for the Ash Framework.
 
@@ -41,15 +40,15 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 - [ash_admin](https://github.com/ash-project/ash_admin) - A super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView. 
 - [ash_events](https://github.com/ash-project/ash_events) - An event-architecture extension for Ash. 
 - [ash_sync](https://github.com/ash-project/ash_sync) - Real-time sync for Postgres-backed Ash & Phoenix applications. 
-- https://github.com/ash-project/ash_paper_trail
-- https://github.com/ash-project/ash_double_entry
-- https://github.com/ash-project/ash_rate_limiter
-- https://github.com/ash-project/ash_ops
-- https://github.com/ash-project/ash_oban
-- https://github.com/ash-project/ash_money
-- https://github.com/ash-project/ash_state_machine
-- https://github.com/ash-project/opentelemetry_ash
-- https://github.com/ash-project/ash_cloak
+- [ash_paper_trail](https://github.com/ash-project/ash_paper_trail) - Track changes to your Ash resources.
+- [ash_double_entry](https://github.com/ash-project/ash_double_entry) - Double-entry accounting for Ash Framework.
+- [ash_rate_limiter](https://github.com/ash-project/ash_rate_limiter) - Rate limiting for Ash Framework.
+- [ash_ops](https://github.com/ash-project/ash_ops) - Operations extension for Ash Framework.
+- [ash_oban](https://github.com/ash-project/ash_oban) - Oban integration for Ash Framework.
+- [ash_money](https://github.com/ash-project/ash_money) - Money handling for Ash Framework.
+- [ash_state_machine](https://github.com/ash-project/ash_state_machine) - State machine functionality for Ash resources.
+- [opentelemetry_ash](https://github.com/ash-project/opentelemetry_ash) - OpenTelemetry integration for Ash Framework.
+- [ash_cloak](https://github.com/ash-project/ash_cloak) - Authorization extension for Ash Framework.
 
 ## AI Related projects
 
