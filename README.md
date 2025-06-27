@@ -41,19 +41,23 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ### other
 
-- [ash_authentication](https://github.com/team-alembic/ash_authentication) - The Ash Authentication framework.
+- [ash_authentication](https://github.com/team-alembic/ash_authentication) - Ash Authentication framework.
 - [ash_phoenix](https://github.com/ash-project/ash_phoenix) - Utilities for integrating Ash and Phoenix.
-- [ash_admin](https://github.com/ash-project/ash_admin) - A super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView. 
-- [ash_events](https://github.com/ash-project/ash_events) - An event-architecture extension for Ash. 
+- [ash_admin](https://github.com/ash-project/ash_admin) - Super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView. 
+- [ash_events](https://github.com/ash-project/ash_events) - Event-architecture extension for Ash. 
 - [ash_sync](https://github.com/ash-project/ash_sync) - Real-time sync for Postgres-backed Ash & Phoenix applications. 
 - [ash_double_entry](https://github.com/ash-project/ash_double_entry) - Double-entry accounting for Ash Framework.
 - [ash_rate_limiter](https://github.com/ash-project/ash_rate_limiter) - Rate limiting for Ash Framework.
-- [ash_ops](https://github.com/ash-project/ash_ops) - An Ash extension which generates mix tasks for actions.
-- [ash_oban](https://github.com/ash-project/ash_oban) -  The extension for integrating Ash resources with Oban.
+- [ash_ops](https://github.com/ash-project/ash_ops) - Ash extension which generates mix tasks for actions.
+- [ash_oban](https://github.com/ash-project/ash_oban) - Extension for integrating Ash resources with Oban.
 - [ash_money](https://github.com/ash-project/ash_money) - Money handling for Ash Framework.
 - [ash_state_machine](https://github.com/ash-project/ash_state_machine) - State machine functionality for Ash resources.
-- [ash_cloak](https://github.com/ash-project/ash_cloak) - An Ash extension to seamlessly encrypt and decrypt resource attributes.
-- [ash_archival](https://github.com/ash-project/ash_archival) -  An Ash extension to implement archival (soft deletion) for resources.
+- [ash_cloak](https://github.com/ash-project/ash_cloak) - Ash extension to seamlessly encrypt and decrypt resource attributes.
+- [ash_archival](https://github.com/ash-project/ash_archival) - Ash extension to implement archival (soft deletion) for resources.
+
+### Phoenix LiveView Components
+
+- [cinder](https://hexdocs.pm/cinder/) - Powerful data table component for Ash Framework resources, in your Phoenix LiveView applications.
 
 ## AI Related projects
 
@@ -67,7 +71,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 - [League of replays](https://github.com/mrdotb/leagueofreplays) - 👁️ Record & Replay league of legends games.
 - [Red](https://github.com/dewetblomerus/red) - Practice spelling Red Words.
 - [Orca Site](https://github.com/orcasound/orcasite) - Orca Live-listening web app.
-
+- [Tuesday](https://github.com/devcarrots/tuesday) - Project management app built with Ash accompanying the book "Domain Modeling with Ash Framework" 
 
 ## Tutorials
 
@@ -75,6 +79,11 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 - [A Gentle Primer to Ash](https://jon.hk/elixir/ash/a-gentle-primer-to-ash) - A Gentle Primer to Ash.
 - [Getting Started with Ash Framework in Elixir](https://optimum.ba/blog/getting-started-with-ash-framework-in-elixir) - Getting Started with Ash Framework in Elixir.
 - [Part 1 — Ash Framework For Phoenix Developers | Intro](https://medium.com/@lambert.kamaro/ash-framework-for-phoenix-developpers-c29b0a147552) - Part 1 of a large serie of Ash Framework tutorials.
+
+## Books
+
+- [Ash Framework, Create Declarative Elixir Web Apps](https://pragprog.com/titles/ldash/ash-framework/) - by Rebecca Le and Zach Daniel
+- [Domain Modeling with Ash Framework](https://shankardevy.gumroad.com/l/domain-modeling-with-ash/) - by Shankar Dhanasekaran
 
 ## Audio & Video
 
