@@ -68,7 +68,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 - [Realworld](https://github.com/team-alembic/realworld) - A fullstack Phoenix LiveView application with backend built with Ash Framework.
 - [Tunez](https://github.com/sevenseacat/tunez) - The starter application for the Ash Framework book.
 - [Fleetms](https://github.com/jmnda-dev/fleetms) - An open source Fleet Maintenance and Management software.
-- [League of replays](https://github.com/mrdotb/leagueofreplays) - 👁️ Record & Replay league of legends games.
+- [League of replays](https://github.com/mrdotb/leagueofreplays) - Record & Replay league of legends games.
 - [Red](https://github.com/dewetblomerus/red) - Practice spelling Red Words.
 - [Orca Site](https://github.com/orcasound/orcasite) - Orca Live-listening web app.
 - [Tuesday](https://github.com/devcarrots/tuesday) - Project management app built with Ash accompanying the book "Domain Modeling with Ash Framework" 
