@@ -79,6 +79,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 ## Audio & Video
 
 - [Ash Framework on Youtube](https://www.youtube.com/watch?v=vjnPjrCF4rs&list=PLFiGINXG7oyFh5B_2SiHI9LtdQ_f1k7pz) - Playlist with video's about Ash.
+- [The Phoenix Rises From the Ash Framework](https://www.youtube.com/watch?v=5BOr3Bm_gfs) - Two hours coding session exploring Ash Framework by famous NeoVim youtuber TJ de Vries.
 
 ## News
 
