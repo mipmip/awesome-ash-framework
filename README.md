@@ -4,6 +4,8 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ## Contents
 
+- [Official Resources](#official-resources)
+- [Tools][#tools]
 - [Extensions](#extensions)
 - [AI-related](#ai-related)
 - [Demo Projects](#demo-projects)
@@ -12,12 +14,21 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 - [Contributing](#contributing)
 - [License](#license)
 
-
 ## Official Resources
 
 - [Ash Framework Official Website](https://ash-hq.org/) - The official Ash Project website.
 - [Ash Framework Official Documentation](https://hexdocs.pm/ash/readme.html) - The official Ash Manual.
 - [Ash Framework Github](https://github.com/ash-project/ash) - The offial Ash Framework Project on Github.
+
+## Tools
+
+### Editors
+
+- [Ash Studio VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ketupia.ash-studio) - Enables quick navigation between Ash sections and visualizing Ash code with mermaid diagrams.
+
+### Online
+
+- [Ash Resource Generator](https://albinkc.github.io/ashgen/) - Web based interface to generate mix ash.gen.resource commands.
 
 ## Extensions
 
@@ -71,7 +82,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 - [League of replays](https://github.com/mrdotb/leagueofreplays) - Record & Replay league of legends games.
 - [Red](https://github.com/dewetblomerus/red) - Practice spelling Red Words.
 - [Orca Site](https://github.com/orcasound/orcasite) - Orca Live-listening web app.
-- [Tuesday](https://github.com/devcarrots/tuesday) - Project management app built with Ash accompanying the book "Domain Modeling with Ash Framework" 
+- [Tuesday](https://github.com/devcarrots/tuesday) - Project management app built with Ash accompanying the book "Domain Modeling with Ash Framework". 
 
 ## Tutorials
 
@@ -79,11 +90,12 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 - [A Gentle Primer to Ash](https://jon.hk/elixir/ash/a-gentle-primer-to-ash) - A Gentle Primer to Ash.
 - [Getting Started with Ash Framework in Elixir](https://optimum.ba/blog/getting-started-with-ash-framework-in-elixir) - Getting Started with Ash Framework in Elixir.
 - [Part 1 — Ash Framework For Phoenix Developers | Intro](https://medium.com/@lambert.kamaro/ash-framework-for-phoenix-developpers-c29b0a147552) - Part 1 of a large serie of Ash Framework tutorials.
+- [Adding full text search](https://blog.1-800-rad-dude.com/posts/2025/08-13-Adding-Postgres-Full-Text-Search-to-an-Ash-Project.html) - Tutorial Adding Postgres Full Text Search to an Ash Project.
 
 ## Books
 
-- [Ash Framework, Create Declarative Elixir Web Apps](https://pragprog.com/titles/ldash/ash-framework/) - by Rebecca Le and Zach Daniel
-- [Domain Modeling with Ash Framework](https://shankardevy.gumroad.com/l/domain-modeling-with-ash/) - by Shankar Dhanasekaran
+- [Ash Framework, Create Declarative Elixir Web Apps](https://pragprog.com/titles/ldash/ash-framework/) - Book written by Rebecca Le and Zach Daniel.
+- [Domain Modeling with Ash Framework](https://shankardevy.gumroad.com/l/domain-modeling-with-ash/) - Book written by Shankar Dhanasekaran.
 
 ## Audio & Video
 
@@ -102,7 +114,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 
 ## Reviews
 
-- [My First Impressions of Ash](https://dewetblomerus.com/2023/11/26/first-thoughts-on-ash.html) - My First Impressions of Ash
+- [My First Impressions of Ash](https://dewetblomerus.com/2023/11/26/first-thoughts-on-ash.html) - My First Impressions of Ash.
 
 ## Contributing
 
