@@ -5,7 +5,7 @@ A curated list of awesome Ash Framework extensions, layers and resources.
 ## Contents
 
 - [Official Resources](#official-resources)
-- [Tools][#tools]
+- [Tools](#tools)
 - [Extensions](#extensions)
 - [AI-related](#ai-related)
 - [Demo Projects](#demo-projects)
